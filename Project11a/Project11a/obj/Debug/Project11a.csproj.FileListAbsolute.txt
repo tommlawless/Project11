@@ -1,0 +1,11 @@
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\bin\Debug\Books.mdb
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\bin\Debug\Project11a.exe.config
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\bin\Debug\Project11a.exe
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\bin\Debug\Project11a.pdb
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.csprojAssemblyReference.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.project11.resources
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.Properties.Resources.resources
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.csproj.GenerateResource.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.csproj.CoreCompileInputs.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.exe
+C:\Users\Rubick\Documents\School Work\CST 242\Project11\Project11a\Project11a\obj\Debug\Project11a.pdb
